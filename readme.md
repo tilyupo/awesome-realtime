@@ -15,6 +15,7 @@
 
 ### Self-hosted
 - [RethinkDB](https://www.rethinkdb.com) - RethinkDB pushes JSON to your apps in realtime.
+- [Replane](https://github.com/replane-dev/replane) - Dynamic configuration manager for feature flags with realtime sync via Server-Sent Events.
 
 ## Websockets
 ### Hosted
